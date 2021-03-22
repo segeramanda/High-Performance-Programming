@@ -1,0 +1,3 @@
+5.869s
+Intel(R) Core(TM) i5-6267U CPU @ 2.90GHz
+0.25
