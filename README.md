@@ -1,4 +1,3 @@
-# High-Performance-Programming
 ## Barnes-Hut
 THE GRAVITATIONAL N-BODY PROBLEM 
 The goal of the assignment is to implement the Barnes-Hut algorithm in C to reduce the calculations required for simulating the N-body problem. 
